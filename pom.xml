@@ -5,7 +5,7 @@
 
   <groupId>gh.jbc.maven</groupId>
   <artifactId>demo-maven-plugin</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.2-SNAPSHOT</version>
   <packaging>maven-plugin</packaging>
 
   <name>Demo Maven Plugin</name>
